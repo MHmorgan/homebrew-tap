@@ -1,4 +1,4 @@
-class SelectorAT12 < Formula
+class Selector < Formula
   desc "Terminal app for selecting between arguments and printing the result to stdout"
   homepage "https://github.com/MHmorgan/selector"
   url "https://github.com/MHmorgan/selector/archive/refs/tags/v1.2.0.tar.gz"
