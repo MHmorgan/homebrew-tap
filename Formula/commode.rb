@@ -55,7 +55,6 @@ class Commode < Formula
   end
 
   def install
-    virtualenv_create(libexec, "python@3.10")
     virtualenv_install_with_resources
   end
 
